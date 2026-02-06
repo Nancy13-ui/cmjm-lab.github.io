@@ -32,8 +32,13 @@
       url: "https://github.com/FortuneEXE"
     - title: "LinkedIn"
       url: "https://www.linkedin.com/in/gcwu"
+      
+- name: "Sharon Li (李品萱)"
+  role: "Research Assistant"
+  affiliation: "Smart Medicine and Health Informatics Master's Program, National Taiwan University"
+  image: "/assets/img/people/Sharon.png"
 
-- name: "Nancy Arya"
+ - name: "Nancy Arya"
   role: "Master's Student"
   affiliation: "Smart Medicine and Health Informatics Master's Program, National Taiwan University"
   image: "/assets/img/people/nancy.png"
@@ -43,9 +48,4 @@
       url: "https://github.com/Nancy13-ui"
     - title: "LinkedIn"
       url: "https://www.linkedin.com/in/nancy-arya-57176b201"
-      
-- name: "Sharon Li (李品萱)"
-  role: "Research Assistant"
-  affiliation: "Smart Medicine and Health Informatics Master's Program, National Taiwan University"
-  image: "/assets/img/people/Sharon.png"
  
